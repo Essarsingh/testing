@@ -1,0 +1,87 @@
+
+
+.container{
+    
+    height: 300px;
+    width: 100%px;
+  background-color:  rgb(5, 253, 170);
+    text-align: center;
+    color: white;
+
+}
+.container1{
+    text-align: center;
+    padding: 50px;
+}
+    
+.container2{
+    text-align: start;
+    color: rgb(0, 255, 170);
+}
+
+
+.container3{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+   column-gap: 5px;
+flex-wrap: wrap;
+   
+}
+
+
+.container4{
+width: 24%;
+text-align: center;
+background-color: rgb(226, 250, 242);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.container5{
+    width: 24%;
+text-align: center;
+background-color: rgb(196, 253, 234);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container6{
+width: 24%;
+text-align: center;
+background-color: rgb(165, 253, 224);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+.container7{
+width: 24%;
+text-align: center;
+background-color: rgb(141, 235, 203);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+     
+
+.container8{
+width: 25%;
+text-align: center;
+background-color: rgb(108, 209, 176);
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.container9{
+    width: 25%;
+    text-align: center;
+    background-color: rgb(5, 253, 170);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.container10{
+    padding: 20px;
+}
+
+
+
+.container11{
+    padding: 70px;
+}
